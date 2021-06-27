@@ -6,6 +6,10 @@ The Application requires the admin to log in to perform CRUD operations on the e
 
 ## Project Screen Shot(s)
 
+![login](https://user-images.githubusercontent.com/64864806/123541270-425b2080-d761-11eb-9a3d-53dc95acc23d.png)
+![view](https://user-images.githubusercontent.com/64864806/123541277-4f780f80-d761-11eb-9393-357e1e972b16.png)
+![insert](https://user-images.githubusercontent.com/64864806/123541315-79c9cd00-d761-11eb-8f53-742fdd2e14e7.png)
+![edit](https://user-images.githubusercontent.com/64864806/123541325-864e2580-d761-11eb-8546-afd72d2ce300.png)
 
 ## Installation and Setup Instructions
 
