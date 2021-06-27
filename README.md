@@ -23,19 +23,19 @@ This will install all the required dependencies.
 
 `npm start`  
 
-The Application runs on ### localhost:3000
+The Application runs on **localhost:3000**
 
 ## Application Design
 
 The src folder consists of Components folder wherein each component of the Application is placed.
 
-1. Authentication User is required to log in in order to acess the Application. The data entered by the user is authenticated with the data in the database and according access to Employee data is provided else it redirects to the login page.
+1. **Authentication** User is required to log in in order to acess the Application. The data entered by the user is authenticated with the data in the database and according access to Employee data is provided else it redirects to the login page.
 
-2. View This components displays data in a tabular form. The Admin can make request to delete, edit or insert data using the button provided.
+2. **View** This components displays data in a tabular form. The Admin can make request to delete, edit or insert data using the button provided.
 
-3. Add This components inserts new data into the Employee table.
+3. **Add** This components inserts new data into the Employee table.
 
-4. Edit To edit Employee details.
+4. **Edit** To edit Employee details.
 
-5. Delete To delete the selected employee details based on id.
+5. **Delete** To delete the selected employee details based on id.
 
